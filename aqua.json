@@ -1,19 +1,19 @@
 {
-    "version": "2.35.0",
+    "version": "2.36.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aquaproj/aqua/releases/download/v2.35.0/aqua_windows_amd64.zip",
+            "url": "https://github.com/aquaproj/aqua/releases/download/v2.36.0/aqua_windows_amd64.zip",
             "bin": [
                 "aqua.exe"
             ],
-            "hash": "2d5a36445e56889ec1d68d15e33ea6fee1def1deddecfaba8c05535670d079fc"
+            "hash": "2f5827fa45f279a924e12b895c819c52bdf26a923552a2f5fc56846caad01f8f"
         },
         "arm64": {
-            "url": "https://github.com/aquaproj/aqua/releases/download/v2.35.0/aqua_windows_arm64.zip",
+            "url": "https://github.com/aquaproj/aqua/releases/download/v2.36.0/aqua_windows_arm64.zip",
             "bin": [
                 "aqua.exe"
             ],
-            "hash": "e9fde48705a71b2493c2bf8d6bc24f7b572f92786b78ddeee0ee09763c8f89cf"
+            "hash": "ea0cca3f74bacac36962958bcb5d028a379f421a8a3ff9d6428289a72b863409"
         }
     },
     "license": "MIT",
